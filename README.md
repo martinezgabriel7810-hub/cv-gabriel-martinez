@@ -5,6 +5,8 @@
 Experiencia en soporte presencial y remoto, monitoreo de infraestructura
 multisede, auditoría de redes industriales y operaciones de fibra óptica.
 
+[Portfolio interactivo (HTML)](./Portfolio_Gabriel_Martinez_v2.2.html)
+
 [Ver currículum completo en PDF](./CV_Gabriel_Martinez.pdf)
 
 ## Experiencia profesional
